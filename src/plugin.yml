@@ -1,0 +1,9 @@
+name: TabEditor
+version: 1.0
+main: pl.atakowiec.tabeditor.Main
+
+commands:
+  tab:
+    description: "tab editor"
+  resettab:
+    description: "reset tab"
